@@ -1,0 +1,26 @@
+{
+  "title": "Intro to K8s",
+  "description": "A quick approach to Kubernetes fundamentals",
+  "courses": [
+    {
+      "course_id": "pods",
+      "title": "Pods",
+      "description": "Let's play with Pods !!"
+    },
+    {
+      "course_id": "Deployments",
+      "title": "Deployments",
+      "description": "Let's play with Deployments and ReplicaSets !!"
+    },
+    {
+      "course_id": "API",
+      "title": "API and Kubectl",
+      "description": "Let's play with API and kubectl !!"
+    },
+    {
+      "course_id": "Namespaces",
+      "title": "Namespaces",
+      "description": "Let's play with Namespaces !!"
+    }
+  ]
+}
